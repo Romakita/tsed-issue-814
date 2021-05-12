@@ -15,7 +15,7 @@
   "dependencies": {
     "@tsed/ajv": "5.49.2",
     "@tsed/common": "5.49.2",
-    "@tsed/core": "5.49.2",
+    "@tsed/core": "5.65.7",
     "@tsed/di": "5.49.2",
     "@tsed/swagger": "5.49.2",
     "@types/swagger-schema-official": "2.0.20",
